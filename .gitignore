@@ -1,0 +1,41 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+*.class
+*.log
+*.lock
+
+*.jar
+*.war
+*.ear
+target/
+
+# idea
+.idea/
+*.iml
+out
+gen
+
+*velocity.log*
+
+### STS ###
+.apt_generated
+.factorypath
+.springBeans
+
+### IntelliJ IDEA ###
+*.iml
+*.ipr
+*.iws
+.idea
+.classpath
+.project
+.settings
+bin/
+
+*.log
+tmp/
+
+# rebel
+*rebel.xml*
